@@ -1,5 +1,5 @@
-export function runM1Test() {
-  console.log("=== M1 TEST ===");
+export function runM1Test() { 
+  console.log(" M1 TEST ");
 
   const testMessage = {
     version: 1,

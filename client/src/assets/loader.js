@@ -1,4 +1,4 @@
-export async function fetchJson(
+export async function fetchJson( 
     url,
     { signal } = {}
 ) {
